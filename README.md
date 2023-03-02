@@ -6,5 +6,6 @@ A Diet Recommendation Engine that calls an OpenAI API and incorporates the Davin
 
 
 **How is it different from OpenAI’s ChatGPT?**
-*Prompts have been designed to increase the specificity of the system. 
+*Prompts have been designed to increase the specificity of the system.  
+
 *It is more specialized in answering nutritional questions, and almost always includes calorific and nutritional values for the specified food item.
